@@ -1,0 +1,30 @@
+body {
+    background-color: #87cefa5e;
+}
+
+header.jumbotron {
+    padding: 2rem 0 0 0;
+} 
+
+header.jumbotron img{
+    width: 100%;
+}
+
+.card.package {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.tour .content {
+    background-color: white;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.tour header {
+    margin-bottom: 0px !important;
+}
+
+.tour .contact {
+    width: 100%;
+}
